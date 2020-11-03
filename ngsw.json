@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604432779274,
+  "timestamp": 1604433063105,
   "index": "https://ssidiropoulos.github.io/smartqueueP/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://ssidiropoulos.github.io/smartqueueP/favicon.ico",
         "https://ssidiropoulos.github.io/smartqueueP/index.html",
-        "https://ssidiropoulos.github.io/smartqueueP/main-es2015.32429c242007a377ba5e.js",
-        "https://ssidiropoulos.github.io/smartqueueP/main-es5.dd0c6da61e95412d9d48.js",
+        "https://ssidiropoulos.github.io/smartqueueP/main-es2015.addbe281ca6ecd8ab2df.js",
+        "https://ssidiropoulos.github.io/smartqueueP/main-es5.5dabc78fe51112c1aa52.js",
         "https://ssidiropoulos.github.io/smartqueueP/polyfills-es2015.40b79097322f338a9abc.js",
         "https://ssidiropoulos.github.io/smartqueueP/polyfills-es5.b49541bdfb27c3434969.js",
         "https://ssidiropoulos.github.io/smartqueueP/runtime-es2015.ddc91d8bbbefe07a25ea.js",
@@ -48,9 +48,9 @@
     "https://ssidiropoulos.github.io/smartqueueP/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://ssidiropoulos.github.io/smartqueueP/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://ssidiropoulos.github.io/smartqueueP/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://ssidiropoulos.github.io/smartqueueP/index.html": "91b8c543697bc9b327bbb30c2e988c20aa7e454e",
-    "https://ssidiropoulos.github.io/smartqueueP/main-es2015.32429c242007a377ba5e.js": "069dd054ed1e3927bd8d535f0c976ee99859fd9e",
-    "https://ssidiropoulos.github.io/smartqueueP/main-es5.dd0c6da61e95412d9d48.js": "d49e65fe25010457bdd8b9f0268abda2d1223509",
+    "https://ssidiropoulos.github.io/smartqueueP/index.html": "f9feebddec45dc27fa8fea5d8b543bb550b96933",
+    "https://ssidiropoulos.github.io/smartqueueP/main-es2015.addbe281ca6ecd8ab2df.js": "58fffcc0d604649f75e6adba01d0f4d98f2c27e6",
+    "https://ssidiropoulos.github.io/smartqueueP/main-es5.5dabc78fe51112c1aa52.js": "bee6e4e9c7c1f0b5ce8507942c6ca868a36de7fc",
     "https://ssidiropoulos.github.io/smartqueueP/polyfills-es2015.40b79097322f338a9abc.js": "ae7538b614884921eb49523efa7e75b0d6b93865",
     "https://ssidiropoulos.github.io/smartqueueP/polyfills-es5.b49541bdfb27c3434969.js": "de74cda43f9250f2c9ca5884800f4dbfc4cee75b",
     "https://ssidiropoulos.github.io/smartqueueP/runtime-es2015.ddc91d8bbbefe07a25ea.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
